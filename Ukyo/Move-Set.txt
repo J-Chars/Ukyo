@@ -1,0 +1,271 @@
+==================
+UKYO by JtheSaltyy
+==================
+||
+||
+||
+=========
+MOVELIST
+=========
+||
+====
+KEY
+====
+D - Down
+U - Up
+L - Left
+R - Right
+DF - Down+Forward
+DB - Down+Back
+LP - Light Punch
+MP - Medium Punch
+HP - Hard Punch
+LK - Light Kick
+MK - Medium Kick
+HK - Hard Kick
+P - Punch
+K - Kick
+2P - 2 Punches (i.e. LP+MP, LP+HP, MP+HP)
+2K - 2 Kicks (i.e. LK+MK, LK+HK, MK+HK)
+
+===========
+DISCLAIMER
+===========
+
+-Before reading the movelist, always assume that all the moves are ground only, unless it is said otherwise.
+
+-Always assume the player is facing to the right.
+
+===================
+CANCELLABLE NORMALS
+===================
+
+These are his normals that can be cancelled into specials and/or supers.
+
+Sp = Special
+Su = Super
+
+- LP (Sp + Su)
+- MP (Sp + Su)
+- LK (Sp + Su)
+- MK (Sp + Su)
+- HK (Sp + Su)
+- cr.LP (Sp + Su)
+- cr.LK (Sp + Su)
+- cr.MK (Sp + Su)
+- cr.HK (Sp + Su)
+
+===========
+MOVE GUIDE
+===========
+
+=====
+MISC
+=====
+
+Move: Chibi Taunt
+Description: Ukyo transforms into a small chibi version of himself. It's actually useful for
+avoiding non-ground fireballs.
+Command: Down + Taunt
+PROPERTIES
+-None
+
+========
+SYSTEM
+========
+
+Move: Dodge
+Description: Ukyo quickly dodges any attacks.
+Command: LP + LK
+PROPERTIES
+-Invulnerability for 6 frames
+
+Move: Evade
+Description: Ukyo rolls out of any attacks. He can be thrown however.
+Command: LP + LK + Direction (Back/Forward)
+PROPERTIES
+-Invulnerability for the entire animation
+-Not invincible to throws
+
+Move: Power Charge
+Description: Ukyo slowly charges her power
+Command: (Hold) MP + MK
+PROPERTIES
+-None
+
+Move: Alpha Counter
+Description: Ukyo counters an attack with his own, which is a guarunteed hit.
+Command (While in Block Stun) MP+MK
+Meter Cost: 1/2
+PROPERTIES
+-None
+
+Move: Counter Movement
+Description: Ukyo counters an attack and moves out of the way.
+Command (While in Block Stun) MP+MK + Direction (Forward for Roll, Backward for Backdash)
+Meter Cost: 1/2
+PROPERTIES
+-None
+
+Move: Advancing Guard
+Description: Ukyo pushes the opponent away and returns the game to neutral
+Command: (While in Block Stun) LP + LK
+PROPERTIES
+-None
+
+Move: Custom Combo
+Description: Ukyo can cancel any move he wants.
+Command: HP + HK
+Meter Cost: What ever the meter is at, but it has to be over 1 bar
+PROPERTIES
+-Can cancel any move into itself or others
+-Temporary Effect
+-Cannot Use EX Moves, or supers
+-Duration is affected by how much meter Ukyo has before using Custom Combo
+
+=========
+THROWS
+=========
+
+Move: Cutaway
+Description: Ukyo cuts his opponent twice.
+PROPERTIES
+-Unblockable
+-Hard Knockdown, Recoverable
+
+Move: Pushback Throw
+Description: Ukyo grabs his opponent then pushes him away. This move side switches. The opponent
+is not knocked down, and instead stays in place for a bit for Ukyo to sneak in an attack, which is
+why the throw damage is low. This throw is good for getting out of the corner and for popping off.
+PROPERTIES
+-Unblockable
+
+=========
+SPECIALS
+=========
+
+Move: Hard Slash Como
+Desciption: Ukyo slashes up to three times depending on the button with large horizontal velocity
+Command: D, DF, F, P (2P for EX)
+PROPERTIES
+-Hard Knockdown
+-Jugglable (EX Only)
+
+Move: Snowfall Slash
+Description: Ukyo tosses an apple and slashes his sword repeatedly.
+Command: F, D, DF, P (2P for EX)
+PROPERTIES
+-Hard Knockdown (EX Only)
+
+Move: Swallow Swipe
+Description: Ukyo swipes his sword in a circular motion.
+Command: B, DB, D, DF, F, P (2P for EX)
+PROPERTIES
+-Air Only
+-Hard Knockdown (EX Only)
+
+Move: Fake Snowfall Slash
+Description: Ukyo tosses up an apple similarly to his Snowfall Slash, but he doesn't do the slashes.
+This is good for faking out players who expect an attack, but if they see through it, he can be punished,
+Command: D, DF, F, K (No EX Variants)
+PROPERTIES
+-None
+
+Move: Lunging Stab
+Description: Ukyo jumps forward and stabs the ground. This move does not knock the opponent down on
+normal versions but it can OTG, meaning it hits downed opponents.
+Command: B, D, DB, K (2K for EX)
+PROPERTIES
+-OTG (can hit downed opponents)
+-Hard Knockdown, No Recovery (EX Only)
+
+Move: Silent Bait
+Description: Ukyo shows off his sword, and if the opponent hits the sword, he punches them away.
+Command: B, D, DB, P (2P for EX)
+PROPERTIES
+-Juggleable (LP Only)
+-Wall Bounce (EX Only)
+
+========
+SUPERS
+========
+
+Move: Sabre Slash Combo
+Description: Ukyo performs a quick flurry of slashes.
+Command: D, DF, F, D, DF, F, P
+Meter Cost: 1, 0 if you are in Full Rage or Rage Explosion
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Phantom Snowfall Strike
+Description: Ukyo tosses up an apple. If this apple makes contact with the opponent,
+Ukyo appears from behind them and slashes them across the back.
+Command: D, DF, F, D, DF, F, K
+Meter Cost: 1, 0 if you are in Full Rage or Rage Explosion
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Swallow Flash
+Description: Ukyo jumps forward. If he touches the opponent, he performs a flurry
+of Swallow Swipes in a very flashy manner.
+Command: D, DF, F, B, DB, D, DF, F, P
+Meter Cost: 2, 1 if you are in Full Rage or Rage Explosion
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Issen
+Description: Ukyo runs forward. If he makes contact with his opponent, he dashes back,
+then performs a powerful slash that does incredible damage. This move can only be done
+in Full Rage with 3 bars, or in Rage Explosion for no bars, however This move takes away 
+all rage meter in both Full Rage and Rage Explosion on hit and block, so use it wisely.
+Command: D, DF, F, D, DF, F, 2K
+Meter Cost: 3 normally, 0 if you are in Full Rage or Rage Explosion
+PROPERTIES
+-MAX Super (50% damage in Full Rage, 75% damage in Rage Explosion)
+-Hard Knockdown, No Recovery
+-Full Rage Required and 3 bars of meter, alternatively you can also be in rage explosion.
+-Takes away all rage meter if whiffed or hit in both Full Rage and Rage Explosion
+
+Move: Zetsumei Ougi (Overkill)
+Description: Ukyo has the same startup and hit as Issen, but instead of doing one big powerful
+slash, he performs a flurry of slashes, which cuts the opponent's skin off. Yes, this is a
+fatality, which means it can only be done under certain conditions which I will list below.
+Like Issen, this move takes all Rage meter if blocked, and hitting this move will instantly
+win you the round, and if you set up the configuration.txt properly, the match as well.
+Command: D, DB, B, D, DB, B, 2K
+Meter Cost: 0, but all rage meter gets taken away on block
+CONDITIONS
+-You must be in Rage Explosion
+-You must be on the last round needed to win the match in your favor (refer to the config.txt file)
+-The opponent must be below or equal to 200 health, or 1/5 health for a standard 1000 health character
+
+==================
+
+RAGE METER - Ukyo's separate mechanic. It acts as a combination of K-Groove and SSVSP's rage meter.
+Here are a few words that were mentioned in the movelist that explain a bit more for you.
+
+FULL RAGE = When you reach maximum Rage Meter, you enter the "Full Rage" mode, in which you flash red,
+and the metr slowly begins to drain. You get a 12.5% attack and defense boost plus a free level 1 super,
+but it takes 1 bar and the entire rage meter, putting you out of Full Rage. Issen can be performed in
+Full Rage mode with 3 bars of meter, and cannot be performed without being in Full Rage or Rage Explosion.
+
+RAGE EXPLOSION = When you are in Full Rage, you can activate Rage Explosion. Rage Explosion is Ukyo's big
+do-or-die super. He gets an insane 25% attacks and defense boost, plus free level 1 supers that take only
+half of the rage meter, and he can perform Issen for free, but it takes all the rage meter on hit and block.
+Alternatively, if the conditions are met, you can perform the Zetsumei Ougi, AKA Ukyo's Fatality. Once Rage
+Explosion ends, the Rage Meter is disabled, and you cannot use Meter for the rest of the match, so this move
+is only used in dire situations towards the end of a match, since afterwards, Ukyo is not left with much once
+Rage AND his meter are both gone, so knowing when or when to not use Rage Explosion is key to mastering him.
+
+Move: Rage Explosion
+Description: Ukyo activates Rage Explosion.
+Command: LP+MK
+Meter Cost: 0, but you need to be in Full Rage.
+PROPERTIES
+-You can activate while in hitstun, which acts as a nice combo breaker as well
+-Pushes the opponent back
+
+==================
+
+i hope you enjoy!
+

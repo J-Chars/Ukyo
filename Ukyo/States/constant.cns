@@ -1,0 +1,113 @@
+;------------------------
+;-| UKYO by JtheSaltyy |-
+;------------------------
+;   - CONSTANTS FILE -
+;------------------------
+
+;================================
+
+[Data]
+life = 1000
+attack = 100
+defence = 100
+fall.defence_up = 52
+liedown.time = 57
+airjuggle = 15
+sparkno = -1
+guard.sparkno = S7001
+KO.echo = 0
+volume = 100
+IntPersistIndex = 0
+FloatPersistIndex = 0
+
+;================================
+
+[Size]
+xscale = 0.95		
+yscale = 1		
+ground.back = 17		
+ground.front = 17		
+air.back = 17		
+air.front = 17	
+height = 60			
+attack.dist = 160	
+proj.attack.dist = 90	
+proj.doscale = 0		   
+head.pos = -1, -80		
+mid.pos = 0, -55		
+shadowoffset = 0		
+draw.offset = 0,0		
+
+;================================
+
+[Velocity]
+walk.fwd  = 2.25
+walk.back = -1.75
+run.fwd  = 4, -5		
+run.back = -6, -5			
+jump.neu = 0, -8.5 
+jump.back = -3.33, -8.5 
+jump.fwd = 3.95, -8.5
+runjump.back = -5,-10
+runjump.fwd = 5,-10	
+
+;================================
+
+[Movement]
+airjump.num = 0		
+airjump.height = 28		
+yaccel = 0.515		
+stand.friction = .85		
+crouch.friction = .82
+air.gethit.groundrecover.ground.threshold = -20
+air.gethit.groundrecover.groundlevel = 10
+air.gethit.airrecover.threshold = -1
+air.gethit.airrecover.yaccel = 0.35
+
+;================================
+
+[Quotes]
+
+;=[ UKYO QUOTES ]=
+
+victory1 = "Hmmm... Interesting."
+victory2 = "I may suffer from a disease but my determination helps me achieve victory."
+victory3 = "My throat has grown sore from all this fighting.. I need to rest."
+victory4 = "I do hope Kei is okay.."
+victory5 = "It was an honor to spar with you."
+victory6 = "I am seeking a specific rose bud. Do you happen to know it's whereabouts?"
+victory7 = "This sword of mine guides me to victory."
+victory8 = "Remain humble after defeat, and the embarrassment never bothers you."
+victory9 = "I have spent countless years on my craft. I fight with nothing but skill."
+victory10 = "You remain careless and attack constantly without knowing I can easily punish you."
+victory11 = "Hmph.. I am finished with this match."
+victory12 = "Ahh... Breathing could have never felt better."
+victory13 = "..."
+victory14 = "Victory.... Is mine...."
+victory15 = "My sword is as sharp as my mind.. You should have fought with a more keen vision."
+victory16 = "Quit trying to hit me so much... Just fight with some intelligence please."
+victory17 = "My body may be broken down... But my brain is not."
+
+;=[ QUOTES (AFTER FATALITY/KILL KO) ]=
+
+victory18 = "Go on to the world beyond."
+victory19 = "Do not worry. You died with dignity."
+victory20 = "Rest in peace. You died a warrior."
+
+;=[ SPECIAL QUOTES ]=
+
+
+;VS Haohmaru
+victory21 = "Quit trying to fight me... I am the superior samurai."
+
+;VS Genjuro
+victory25 = "To live forever is to oppose the rule of life itself."
+
+;VS Nakoruru
+victory27 = "You were quite the annoyance, yet your experience and skill I admire."
+
+;VS Sagat
+victory29 = "We are similar in dominance, yet we are so different in talent and skill."
+
+;VS Ukyo
+victory30 = "Even if my opponent is my own self, I hold nothing back.."

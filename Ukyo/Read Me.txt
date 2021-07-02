@@ -1,0 +1,71 @@
+- Ukyo Readme -
+
+
+  = Q & A =
+
+
+ Q : Why Ukyo? 
+
+ A : Well let's just say KarmaCharmeleon was convincing me to get into SamSho. I asked her "Who plays like
+     Sagat?" as a joke, but she gave me an unexpected answer, and that was Ukyo. When I actually played
+     him in SamSho V Special, she was not wrong. So, I decided to make him for that reason alone.
+
+
+ Q : What's his playstyle like?
+
+ A : Ukyo plays like his appearance in SSVSP, and has some elements taken from CvS2 Sagat.
+
+
+ Q : How do you play Ukyo?
+
+ A : Ukyo is a CvS Sagat type character with amazing range, amazing damage, but sluggish mobility, much like how SamSho
+     characters usually behave. His hard slash is his go-to punish option and poke. It deals insane damage and has
+     amazing range, however if blocked, he will be left open to punish for a while. His light punches for both standing
+     and crouching are incredible pokes. They are +2 on block and +5 on hit, so they make for incredible pokes, and
+     using cr.LK, which is +11 on hit, you can create actual combos, though his BnB combos are as short as you'd expect.
+     His cr.MP is an amazing anti-air with range that covers an incredibly high vertical distance. 
+     Utilize his normals to your advantage. They really do help. Don't use his specials much in neutral and use them
+     mainly for punishing or for combo ending. Just to sum it up, know your neutral and normals and you'll be fine.
+      .
+ Q : How do you utilize the rage meter? Isn't that just K-Groove?
+
+ A : Yes, and no. This meter is separate from the main meter. It increases each time Ukyo takes damage from any attacks
+     that aren't throws. Once you reach the top, it slowly begins to decrease, like K-Groove. However, once you reach
+     full Rage Meter, you can use a free level 1 super, but it takes away the entire rage meter, and you lose the one
+     bar anyways if you have it. The real thing about the Rage Meter is that when you are in this flashing red state,
+     press all 3 punch buttons, and you'll see that you end up activating Rage Explosion. Rage Explosion is a do-or-die
+     situational install super. Once you do the super, the meter turns purple and begins to decrease from 100% once
+     more. During Rage Explosion, you gain a 25% attack buff and 25% defense buff. You can do a free level 1 super,
+     but it takes half of the meter. You can perform his Issen, but it takes all the rage meter, but in return it does
+     a whopping 75% damage, or 750 health. Unfortunately, once the meter empties out, he cannot use Rage meter or use
+     his normal meter for the rest of the match. Yes, not round, match. That's the main reason why he becomes so
+     powerful during Rage Exploson. Utilize this rage meter by not trying to pop off so quickly after filling it
+     up 100%, and always keep a close eye on it throughout the match, as a huge life defecit in the opponent's favor
+     can be easily taken away if Ukyo plays his cards right.
+
+
+  = BEGINNER COMBOS =
+
+ cr.LK xx cr.LK xx cr.LP xx Hard Slash Combo
+
+ a.HP, s.HP
+
+ cr.LK xx cr.LP xx EX.Hard Slash Combo, s.MP xx HK.Lunging Stab
+
+ cr.LK xx s.LP xx Sabre Slash Combo 
+
+ Close s.MP, cr.LK xx cr.LP xx Snowfall Slash
+
+
+  = CUSTOM COMBOS =
+
+ Install, repeat (s.HP), Sabre Slash Combo
+
+ Install, repeat (s.HP xx HP.Hard Slash Combo), Sabre Slash Combo
+
+
+ = CREDITS =
+
+  KGenuro - SFF
+
+  KarmaCharizard & Trololo - Feedback

@@ -1,0 +1,49 @@
+;------------------------
+;-| UKYO by JtheSaltyy |-
+;------------------------
+;  - DEFINITION FILE -
+;------------------------
+
+;================================
+
+[Info]
+name 		= "Ukyo"
+displayname 	= "Ukyo"
+versiondate 	= 11, 7, 20
+mugenversion 	= 1.0
+author 		= "JtheSaltyy"
+pal.defaults 	= 1, 2
+
+;================================
+
+[Palette Keymap] 
+x 	= 1
+y 	= 2
+z 	= 3
+a 	= 4
+b 	= 5
+c 	= 6
+x2 	= 7
+y2 	= 8
+z2 	= 9
+a2 	= 10
+b2 	= 11
+c2 	= 12
+
+;================================
+
+[Files]
+sprite		= Sprite.sff
+anim		= Animation.air
+sound		= Sound.snd 
+cmd		= Command.cmd
+cns		= States/constant.cns
+stcommon	          = States/system.cns
+st		= States/normal.cns
+st1		= States/special.cns
+st2		= States/super.cns
+st3		= States/helper.cns
+st4		= States/groove.cns
+st5		= Configuration.txt
+
+;================================
